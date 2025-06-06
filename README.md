@@ -76,7 +76,7 @@ Follow the steps below to get the project up and running on your local machine.
 ### **Clone the repository**
 
 ```bash
-git clone https://github.com/manumay1962/gta-vi-website.git 
+git clone https://github.com/Shiveshanand09.git 
 ```
 
 ### **Navigate to the project folder**
@@ -102,6 +102,5 @@ We welcome contributions! If you'd like to contribute to the project, feel free 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at manumay8@gmail.com
+If you have any feedback, please reach out to us at Shiveshanand8742@gmail.com
 Happy Coding :)
-
